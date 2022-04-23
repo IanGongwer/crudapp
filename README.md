@@ -10,3 +10,6 @@ NodeJS Dependencies:
 - Express
 - MySQL
 - Nodemon
+
+Sample Video:
+![2022-04-23 14-12-51](https://user-images.githubusercontent.com/63007329/164934590-85d59a9f-2e70-4d16-847d-45bb7b2e9dbc.gif)
